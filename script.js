@@ -39,7 +39,7 @@ for(let i =0; i<encodedStr.length;i++){
 		decodedArr.push(encodedStr[i])
 	}
 	else{
-		decodedArr.push(lookup.encodedStr[i]);
+		decodedArr.push(lookup.encodedStr[i])
 	}
 }
 
